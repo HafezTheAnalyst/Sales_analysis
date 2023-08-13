@@ -62,5 +62,5 @@ The project utilized a sales dataset available on Kaggle: [Sales Product Data](h
 For inquiries and collaboration opportunities, please contact:
 
 Mahmoud Hafez
-- LinkedIn: [Mahmoud Hafez](www.linkedin.com/in/mahmoudtheanalyst) 
+- LinkedIn: [Mahmoud Hafez](www.linkedin.com/in/mahmoudtheanalyst)  
 - Email: mahmoud.hafez.mh.2023@gmail.com
