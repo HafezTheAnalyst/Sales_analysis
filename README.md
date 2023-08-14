@@ -19,7 +19,7 @@ Welcome to the Sales Analysis Capstone Project! This project aims to delve into 
 - **Objective:** Analyze sales data to uncover actionable insights for business decision-making.
 - **Key Questions:** Addressed questions related to peak sales month, top sales city, advertisement timing, best-selling products, and more.
 - **Tools Utilized:** Excel, SQL, Tableau, RMarkdown.
-- **Interactive Visualizations:** [Tableau Visualization - Sales Analysis](https://public.tableau.com/views/Sales_analysis_16912020036490/Sales_analysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+- **Interactive Visualizations:** [Tableau Visualization - Sales Analysis](https://public.tableau.com/views/Sales_analysis_16912020036490/customeranalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 - **RmMrkdown:** [RMarkdown Presentation - Sales Analysis](https://rpubs.com/Mahmoud_hafez/sales_analysis)
 
 ## Key Insights
