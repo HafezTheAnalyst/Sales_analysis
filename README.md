@@ -46,7 +46,7 @@ The project utilized a sales dataset available on Kaggle: [Sales Product Data](h
 
 ## Analysis and Visualization
 
-- Detailed data cleaning, preparation, and transformation.
+- Excel Detailed data cleaning, preparation, and transformation.
 - SQL queries to extract specific insights and metrics.
 - Tableau visualizations showcasing key findings and trends.
 - RMarkdown presentation providing coding and visualizing business insights.
