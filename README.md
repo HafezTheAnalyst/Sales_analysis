@@ -1,5 +1,3 @@
-Certainly, here's the updated project readme based on your provided content:
-
 # Sales Analysis Capstone Project
 
 ## Overview
